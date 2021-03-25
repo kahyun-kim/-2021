@@ -1,5 +1,5 @@
 # 이코테2021
-Coding Test Study<\br>
+Coding Test Study
 
 [이것이코딩테스트다2021ver_나동빈 유튜브 강의]
 https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC
